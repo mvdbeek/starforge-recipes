@@ -1,0 +1,7 @@
+---
+
+name: lxml
+type: wheel
+version: 4.6.2
+purepy: false
+imageset: cext-osx-wheel
