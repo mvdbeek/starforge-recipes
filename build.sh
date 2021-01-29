@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+set -exuo pipefail
 
 if [ -z "${GITHUB_WORKSPACE:-}" ]; then
     cd $(dirname $0)
